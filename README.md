@@ -1,2 +1,3 @@
 # ibm-python-final-project
-IBM Professional Analytics Python Final Project
+
+*** Please refer to TESLA GRAPH SCREENSHOT and GME GRAPH SCREENSHOT for the last portions of the lab. GitHub will not display these graphs.
